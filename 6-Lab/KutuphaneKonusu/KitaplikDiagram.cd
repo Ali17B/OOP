@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_6_Lab.KutuphaneKonusu.Kitap" Collapsed="true">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIEAAAAAAAAAEAAAACAAAAAAAAAAAQAAEAAQA=</HashCode>
+      <FileName>KutuphaneKonusu\Kitap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.KutuphaneKonusu.Yazar">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>KutuphaneKonusu\Yazar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.KutuphaneKonusu.KitapYazar" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KutuphaneKonusu\KitapYazar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.KutuphaneKonusu.Uye">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>KutuphaneKonusu\Uye.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.KutuphaneKonusu.Kisi" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAAACAAAAAAEAAAAAACAAgAAAEACAAAACAAAAA=</HashCode>
+      <FileName>KutuphaneKonusu\Kisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.KutuphaneKonusu.Personel">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>KutuphaneKonusu\Personel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.KutuphaneKonusu.KitapHareket">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAARAAAAAAAAAAAACAAIAAAAAAABAAAAEAAA=</HashCode>
+      <FileName>KutuphaneKonusu\KitapHareket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.KutuphaneKonusu.Kutuphane" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAIAAABAAABAgAAAAAAAAIAAAQAEA=</HashCode>
+      <FileName>KutuphaneKonusu\Kutuphane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.KutuphaneKonusu.Adres" Collapsed="true">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KutuphaneKonusu\Adres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_6_Lab.KutuphaneKonusu.KitapTuru" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAUAABBAAAAAEAAAAAAAAAAAAAAAAABAAAAAAQ=</HashCode>
+      <FileName>KutuphaneKonusu\KitapTuru.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_6_Lab.KutuphaneKonusu.UyeTipi" Collapsed="true">
+    <Position X="11" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAACAAA=</HashCode>
+      <FileName>KutuphaneKonusu\Uye.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_6_Lab.KutuphaneKonusu.HareketTipi" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAEABAAAAAAAA=</HashCode>
+      <FileName>KutuphaneKonusu\KitapHareket.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_2_BilgisayarParcalari.AnaKart">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>AnaKart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2_BilgisayarParcalari.Bilgisayar">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAQAiAgAAAAAAAAAAAAAAAgiAAAAAAAEAAA=</HashCode>
+      <FileName>Bilgisayar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2_BilgisayarParcalari.EkranKarti">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>EkranKarti.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2_BilgisayarParcalari.HardDisk">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAIAAQAAAAAAAIAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>HardDisk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2_BilgisayarParcalari.Islemci">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAQIAAAAAAIAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Islemci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2_BilgisayarParcalari.Kasa">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAQAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Kasa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_2_BilgisayarParcalari.Ram">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAQAAAAAAAIAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Ram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_2_BilgisayarParcalari.KasaTipi" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAA=</HashCode>
+      <FileName>KasaTipi.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

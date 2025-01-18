@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_6_Lab.LokantaKonusu.Kategori">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAQAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LokantaKonusu\Kategori.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.LokantaKonusu.Urun">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAIAYAIAAAAAAAAAAAAAAAAAAIAAAAAIAAAAA=</HashCode>
+      <FileName>LokantaKonusu\Urun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.LokantaKonusu.Birim">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>LokantaKonusu\Birim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.LokantaKonusu.Personel">
+    <Position X="1.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAACAAAAAAEAAAAAAAAAgAAAEACAAAACAAAAA=</HashCode>
+      <FileName>LokantaKonusu\Personel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.LokantaKonusu.Lokanta">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAIAAAAAAACACAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>LokantaKonusu\Lokanta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_6_Lab.LokantaKonusu.Satis">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQIAQAAAAAAAACAIAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LokantaKonusu\Satis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_6_Lab.LokantaKonusu.SatisTipi" Collapsed="true">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LokantaKonusu\Satis.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

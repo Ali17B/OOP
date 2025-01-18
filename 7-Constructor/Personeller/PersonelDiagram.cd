@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_7_Constructor.Personeller.Kisi" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAACAAQAAAEAAAAAACABAABEEACAAAACIAAAE=</HashCode>
+      <FileName>Personeller\Kisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_7_Constructor.Personeller.Adres" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECQgAAAAAAAAAAAAAAAIAAAAAABAACAEAAAAAAAAA=</HashCode>
+      <FileName>Personeller\Adres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_7_Constructor.Personeller.Personel" Collapsed="true">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAgAQACAEAA=</HashCode>
+      <FileName>Personeller\Personel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_7_Constructor.Personeller.SatisPersoneli" Collapsed="true">
+    <Position X="1.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Personeller\SatisPersoneli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="_7_Constructor.Personeller.AdresTipi" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAIAAAAAAAAAJAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Personeller\AdresTipi.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="_7_Constructor.Personeller.Departman" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAEAAAAAQAAAAAACAAAAkAAAAQIA=</HashCode>
+      <FileName>Personeller\Departman.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
